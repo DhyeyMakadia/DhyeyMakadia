@@ -1,8 +1,8 @@
 # Hi there, I'm Dhyey 👋
 ### 👨🏻‍💻 &nbsp;About Me
 💡 &nbsp;I like to explore new technologies and develop software solutions.\
-🎓 &nbsp;I'm currently studying computer science at Ahmedabad.\
-🌱 &nbsp;I'm on track for learning more about .NET technology and web development at [TatvaSoft](https://www.tatvasoft.com).\
+🎓 &nbsp;I have completed my bachelor's in computer science from L.J. Institute, Ahmedabad.\
+🌱 &nbsp;I'm on track for enhancing knowledge about Next.js, React and .NET technology at [TatvaSoft](https://www.tatvasoft.com).\
 💬 &nbsp;Feel free to reach me for some interesting discussions.\
 ✉️ &nbsp;You can shoot me an [email](mailto:dj.makadia24@gmail.com) and I'll try to respond as soon as I can.
 <!-- 📄 &nbsp;Please have a look at my [Résumé]() for more details about me. I'm open to feedback and suggestions! -->
@@ -11,15 +11,19 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-&nbsp;
-![C#](https://img.shields.io/badge/C%23-239120?style=logo=c-sharp)&nbsp;
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=logo=.net)\
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=094E90)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp;
+![C#](https://img.shields.io/badge/C%23-05122A?style=flat&logo=c-sharp&logoColor=563D7C)&nbsp;
+![.NET](https://img.shields.io/badge/-.NET-05122A?style=flat&logo=dotnet)\
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)\
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)\
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
+![Tailwind](https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=tailwindcss&logoColor=094E90)
+![MUI](https://img.shields.io/badge/-MUI-05122A?style=flat&logo=mui&logoColor=094E90)\
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=094E90)&nbsp;\
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
