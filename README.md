@@ -7,7 +7,7 @@
 ✉️ &nbsp;You can shoot me an [email](mailto:dj.makadia24@gmail.com) and I'll try to respond as soon as I can.
 <!-- 📄 &nbsp;Please have a look at my [Résumé]() for more details about me. I'm open to feedback and suggestions! -->
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img alt="Mario" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="350" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
 
