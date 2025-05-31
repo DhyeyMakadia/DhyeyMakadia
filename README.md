@@ -32,7 +32,7 @@
 <!-- ## Github Stats
 ![Dhyey's github stats](https://github-readme-stats.vercel.app/api?username=DhyeyMakadia&show_icons=true&count_private=true&bg_color=00000000&text_color=777&hide=contribs,prs) -->
 
-<h3 align="center">🤝🏻 &nbsp;Connect with Me</h3>
+### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
 <!-- <a href="https://www.adityavsingh.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a> -->
